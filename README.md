@@ -97,7 +97,6 @@ This **Recipe Recommendation System** integrates **data processing**, **machine 
    ```bash
    git clone https://github.com/vipanchip/AI-Powered-Recipe-Recommendation.git
    
-
 2. Install dependencies:   
    ```bash
    pip install -r requirements.txt
