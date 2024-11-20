@@ -1,6 +1,5 @@
-# Recipe-Recommendation-Food-Recommendation-Python-Machine-Learning
+# AI-Powered Recipe-Recommendation 
 
-# Recipe Recommendation System
 
 ## Introduction  
 This project is a **Recipe Recommendation System** designed to suggest recipes based on user-provided nutritional values and ingredients. It combines **machine learning techniques** with a user-friendly **web application framework** to deliver personalized recipe recommendations.
