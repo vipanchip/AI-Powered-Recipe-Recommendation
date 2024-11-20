@@ -95,8 +95,8 @@ This **Recipe Recommendation System** integrates **data processing**, **machine 
 
 1. Clone the repository:  
    ```bash
-   [git clone](https://github.com/vipanchip/AI-Powered-Recipe-Recommendation.git)
-   cd recipe-recommendation-system
+   git clone https://github.com/vipanchip/AI-Powered-Recipe-Recommendation.git
+   
 
 2. Install dependencies:   
    ```bash
